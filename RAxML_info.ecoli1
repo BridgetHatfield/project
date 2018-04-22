@@ -1,0 +1,186 @@
+
+
+This is RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 588 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 21.28%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 40 inferences on the original alignment using 40 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 588
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: WAG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -T2 -m PROTGAMMAWAG -p 567 -s KaiCecoli.phy -#40 -n ecoli1 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Inference[0]: Time 52.217376 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[1]: Time 51.611844 GAMMA-based likelihood -12510.452328, best rearrangement setting 5
+alpha[0]: 1.479229 
+Inference[2]: Time 51.856883 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[3]: Time 51.782404 GAMMA-based likelihood -12510.452328, best rearrangement setting 5
+alpha[0]: 1.479228 
+Inference[4]: Time 52.155864 GAMMA-based likelihood -12510.452134, best rearrangement setting 5
+alpha[0]: 1.479516 
+Inference[5]: Time 51.715911 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[6]: Time 51.730534 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[7]: Time 51.768118 GAMMA-based likelihood -12510.452134, best rearrangement setting 5
+alpha[0]: 1.479516 
+Inference[8]: Time 51.512162 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[9]: Time 51.425229 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[10]: Time 51.329559 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[11]: Time 52.091698 GAMMA-based likelihood -12510.452134, best rearrangement setting 5
+alpha[0]: 1.479515 
+Inference[12]: Time 51.473162 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[13]: Time 51.265326 GAMMA-based likelihood -12510.452330, best rearrangement setting 5
+alpha[0]: 1.479226 
+Inference[14]: Time 51.639377 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[15]: Time 51.686588 GAMMA-based likelihood -12510.452328, best rearrangement setting 5
+alpha[0]: 1.479228 
+Inference[16]: Time 53.863504 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[17]: Time 53.176746 GAMMA-based likelihood -12510.452328, best rearrangement setting 5
+alpha[0]: 1.479228 
+Inference[18]: Time 51.607815 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[19]: Time 51.576781 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479512 
+Inference[20]: Time 51.703214 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[21]: Time 52.709727 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[22]: Time 51.195796 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[23]: Time 51.603370 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[24]: Time 51.518702 GAMMA-based likelihood -12510.452330, best rearrangement setting 5
+alpha[0]: 1.479226 
+Inference[25]: Time 52.778676 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479515 
+Inference[26]: Time 51.642990 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[27]: Time 51.576760 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[28]: Time 51.564921 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[29]: Time 51.419041 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[30]: Time 51.652667 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479515 
+Inference[31]: Time 51.527829 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[32]: Time 51.426276 GAMMA-based likelihood -12510.458298, best rearrangement setting 5
+alpha[0]: 1.472399 
+Inference[33]: Time 51.550796 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[34]: Time 51.498814 GAMMA-based likelihood -12510.452136, best rearrangement setting 5
+alpha[0]: 1.479513 
+Inference[35]: Time 51.720722 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+Inference[36]: Time 51.804360 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[37]: Time 51.570036 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[38]: Time 51.329502 GAMMA-based likelihood -12510.452329, best rearrangement setting 5
+alpha[0]: 1.479227 
+Inference[39]: Time 51.474432 GAMMA-based likelihood -12510.452135, best rearrangement setting 5
+alpha[0]: 1.479514 
+
+
+Conducting final model optimizations on all 40 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.0
+Inference[1] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.1
+Inference[2] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.2
+Inference[3] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.3
+Inference[4] final GAMMA-based Likelihood: -12510.448426 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.4
+Inference[5] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.5
+Inference[6] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.6
+Inference[7] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.7
+Inference[8] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.8
+Inference[9] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.9
+Inference[10] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.10
+Inference[11] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.11
+Inference[12] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.12
+Inference[13] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.13
+Inference[14] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.14
+Inference[15] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.15
+Inference[16] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.16
+Inference[17] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.17
+Inference[18] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.18
+Inference[19] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.19
+Inference[20] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.20
+Inference[21] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.21
+Inference[22] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.22
+Inference[23] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.23
+Inference[24] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.24
+Inference[25] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.25
+Inference[26] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.26
+Inference[27] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.27
+Inference[28] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.28
+Inference[29] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.29
+Inference[30] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.30
+Inference[31] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.31
+Inference[32] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.32
+Inference[33] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.33
+Inference[34] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.34
+Inference[35] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.35
+Inference[36] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.36
+Inference[37] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.37
+Inference[38] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.38
+Inference[39] final GAMMA-based Likelihood: -12510.448423 tree written to file /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_result.ecoli1.RUN.39
+
+
+Starting final GAMMA-based thorough Optimization on tree 32 likelihood -12510.448423 .... 
+
+Final GAMMA-based Score of best tree -12510.448423
+
+Program execution info written to /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_info.ecoli1
+Best-scoring ML tree written to: /home/bmhat/EEOB563/eeob563/project/projecttake2/RAxML_bestTree.ecoli1
+
+Overall execution time: 2104.305688 secs or 0.584529 hours or 0.024355 days
+
